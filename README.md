@@ -1,16 +1,16 @@
 # Customer-Shopping-Behavior-Analytics
 End-to-end Customer Shopping Behaviour Analysis using Python, SQL Server, and Power BI. Includes data cleaning, business analysis, KPI calculations, and an interactive dashboard to uncover customer purchasing patterns and generate actionable business insights.
-# 📊 Customer Shopping Behavior Analytics
+#  Customer Shopping Behavior Analytics
 
 
 
-## 1. 📌 Project Overview
+## 1.  Project Overview
 
 This project focuses on analyzing customer shopping behavior to understand purchasing patterns, customer preferences, subscription trends, and sales performance. Python was used for data cleaning and Exploratory Data Analysis (EDA), SQL Server for business analysis and KPI calculations, and Power BI for developing an interactive dashboard.
 
 The objective is to transform raw customer data into meaningful business insights that support data-driven decision-making.
 
-## 2. 📂 Dataset
+## 2.  Dataset
 
 * **Source:** Kaggle
 * **Data Type:** Secondary Data
@@ -45,7 +45,7 @@ The dataset was used to explore customer demographics, purchasing behavior, and 
 | Microsoft PowerPoint | Project presentation                                  |
          
 
-## 4. 🔄 Project Workflow
+## 4.  Project Workflow
 
 **Step 1: Data Loading**
 Imported the Kaggle dataset into Python and examined its structure, columns, and data types.
